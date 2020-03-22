@@ -9,6 +9,7 @@ title: ZeroAlpha's university course notes
 
 ## Subject notes: Year 3
 * [Equational Programming](https://thezeroalpha.github.io/equational-notes)
+* [Machine Learning](https://thezeroalpha.github.io/ml-notes)
 
 ## Subject notes: Year 2
 
