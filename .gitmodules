@@ -58,3 +58,6 @@
 [submodule "automata-complexity-notes"]
 	path = automata-complexity-notes
 	url = https://github.com/thezeroalpha/automata-complexity-notes.git
+[submodule "philosophy-notes"]
+	path = philosophy-notes
+	url = https://github.com/thezeroalpha/philosophy-notes.git
