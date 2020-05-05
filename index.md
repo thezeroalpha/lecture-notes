@@ -2,15 +2,16 @@
 title: ZeroAlpha's university course notes
 ---
 
-# University subject notes
+# University subject notes (VU Amsterdam)
 ---
 
-[Current lecture notes.](Current lecture notes.html)
+No current lecture notes.
 
 ## Subject notes: Year 3
 * [Equational Programming](https://thezeroalpha.github.io/equational-notes)
 * [Machine Learning](https://thezeroalpha.github.io/ml-notes) **(unfinished)**
 * [Automata & Complexity](https://thezeroalpha.github.io/automata-complexity-notes) **(unfinished)**
+* [Philosophy](https://thezeroalpha.github.io/philosophy-notes)
 
 ## Subject notes: Year 2
 
