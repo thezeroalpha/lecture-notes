@@ -61,3 +61,6 @@
 [submodule "philosophy-notes"]
 	path = philosophy-notes
 	url = https://github.com/thezeroalpha/philosophy-notes.git
+[submodule "compthink-notes"]
+	path = compthink-notes
+	url = https://github.com/thezeroalpha/compthink-notes.git
